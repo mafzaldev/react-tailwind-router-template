@@ -1,4 +1,3 @@
-// src/components/About.tsx
 import React from "react";
 
 const AboutUs: React.FC = () => {
@@ -6,8 +5,8 @@ const AboutUs: React.FC = () => {
     <div className="p-8 text-center">
       <h1 className="text-4xl font-bold mb-4">About us</h1>
       <p className="text-lg">
-        This is the home page content. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
+        This is the Anout us page content. Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit.
       </p>
     </div>
   );
