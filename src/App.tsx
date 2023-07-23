@@ -10,6 +10,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/post/:id" element={<Post />} />
         <Route path="/aboutus" element={<AboutUs />} />
+        {/* Add more routes as needed */}
       </Routes>
     </>
   );
