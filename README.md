@@ -52,6 +52,12 @@ cd "folder name here without quotes"
 npm install
 ```
 
+There are some commits in the git history that are not relevant to the template. To remove them, run the following command:
+
+```bash
+bash clear_commits.sh
+```
+
 Finally, start the development server:
 
 ```bash
